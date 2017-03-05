@@ -1,0 +1,337 @@
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.margin0 {
+    margin: 0 !important;
+    background: url(../img/sbg1.png) no-repeat center !important;
+    color: #fff !important;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    background: #333;
+}
+
+.header {
+}
+
+.black {
+    background: url(../img/black.png) no-repeat center;
+    height: 80px;
+}
+
+.box1 {
+    width: 1080px;
+    margin: auto;
+}
+
+.box2 {
+    width: 1080px;
+    margin: auto;
+}
+
+.search {
+}
+
+.search ul li {
+    float: left;
+    margin-top: 25px;
+}
+
+.search ul li a {
+    font-size: 18px;
+    color: #fff;
+    margin-left: 45px;
+}
+
+.search ul li a:hover {
+    border-bottom: #f41a2a 2px solid;
+    padding-bottom: 5px;
+    color: #f41a2a;
+}
+
+.active {
+    border-bottom: #f41a2a 2px solid;
+    padding-bottom: 5px;
+    color: #f41a2a !important;
+}
+
+.banner {
+    background: url(../img/banner3.jpg) no-repeat center;
+    height: 279px;
+}
+
+.content {
+    width: 1080px;
+    margin: auto;
+}
+
+.top {
+    text-align: center;
+    margin-top: 56px;
+    margin-left: 340px;
+}
+
+.top a {
+    font-size: 20px;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    margin-left: 22px;
+    display: block;
+    width: 122px;
+    height: 46px;
+    float: left;
+    line-height: 46px;
+    background: url(../img/sbg.png) no-repeat center;
+}
+
+.top a:hover {
+    background: url(../img/sbg1.png) no-repeat center;
+    color: #fff;
+}
+
+.mid {
+    margin-top: 85px;
+}
+
+.text h3 {
+    font-size: 16px;
+    color: #f41a2a;
+    margin-top: 16px;
+}
+
+.text h4 {
+    font-size: 12px;
+    color: #fcf9f9;
+    margin-top: 21px;
+    line-height: 25px;
+}
+
+.date {
+    margin-top: 15px;
+    margin-left: 410px;
+}
+
+.date span {
+    color: #fff;
+}
+
+.heart {
+    background: url(../img/heart.png) no-repeat left;
+    padding-left: 25px;
+    height: 15px;
+}
+
+.message {
+    background: url(../img/message.png) no-repeat left;
+    padding-left: 25px;
+    height: 15px;
+    margin-left: 36px;
+}
+
+.month {
+    margin-left: 36px;
+}
+
+.month p {
+    color: #B9B9B9;
+}
+
+.mar {
+    margin: 0 !important;
+}
+
+.heart:hover {
+    background: url(../img/heart1.png) no-repeat left;
+}
+
+.pic {
+    margin-top: 80px;
+}
+
+.title {
+    padding-left: 18px;
+}
+
+.title p {
+    font-size: 16px;
+    color: #fff;
+    margin-right: 200px;
+}
+
+.title span {
+    font-size: 12px;
+    color: #fff;
+}
+
+.body1 {
+    width: 324px;
+    height: 92px;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-left: 19px;
+}
+
+.article h1 {
+    font-size: 14px;
+    color: #eae4e5;
+}
+
+.article p {
+    font-size: 12px;
+    color: #c4c2c3;
+    margin-top: 5px;
+}
+
+.box4 {
+    margin-right: 30px;
+}
+
+.body1:hover {
+    background: #f41a2a;
+}
+
+.body1:hover .box4 p {
+    color: #fff;
+}
+
+.body1:hover .box4 h1 {
+    color: #fff;
+}
+
+.hot {
+    margin-top: 55px;
+}
+
+.hot1 {
+    margin-top: 15px;
+}
+
+.hot1 img {
+    margin-top: 3px;
+}
+
+.hot1 p {
+    margin-left: 15px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.hot1 span {
+    font-size: 12px;
+    color: #ddd;
+    margin-left: 25px;
+}
+
+.hot1 p:hover {
+    color: #f41a2a;
+}
+
+.history {
+    margin-top: 55px;
+}
+
+.hot1 h3 {
+    width: 78px;
+    height: 25px;
+    color: #fff;
+    background: #f41a2a;
+    line-height: 25px;
+    text-align: center;
+}
+
+.page {
+    margin-top: 70px;
+    margin-left: 420px;
+}
+
+.pa a {
+    font-size: 14px;
+    color: #fff;
+    display: block;
+    width: 29px;
+    height: 23px;
+    float: left;
+    text-align: center;
+    line-height: 23px;
+}
+
+.ml {
+    margin-left: 10px;
+}
+
+.pa a:hover {
+    background: url(../img/pag.png) no-repeat center;
+    color: #000;
+}
+
+.act {
+    background: url(../img/pag.png) no-repeat center;
+    color: #000 !important;
+}
+
+.footer {
+    background: url(../img/foot.jpg) no-repeat center;
+    margin-top: 100px;
+    height: 280px;
+    padding-top: 100px;
+}
+
+.about {
+    width: 1080px;
+    margin: auto;
+}
+
+.about h1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 14px;
+    color: #ccc;
+    font-weight: normal;
+    text-align: center;
+    line-height: 24px;
+}
+
+.about1 {
+    margin-left: 40px;
+}
+
+.about2 {
+    margin-left: 90px;
+}
+
+.about p:hover {
+    color: #f00;
+}
+
+.about h1:hover {
+    color: #f00;
+}
+
+.copyright {
+}
+
+.copyright p {
+    font-size: 16px;
+    color: #fff;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 105px;
+}
+
+
